@@ -19,7 +19,7 @@ public class NetworkUtils {
     private static final String POP_MOVIES = "/3/movie/popular";
     private static final String TOP_RATED = "/3/movie/top_rated";
     private static final String MOVIE_DETAIL = "/3/movie/";
-    private static final String API_KEY = "INSERT_YOUR_API_KEY_REHE";
+    private static final String API_KEY = "INSERT_YOUR_API_KEY_HERE";
     private static final String LANGUAGE = "en-US";
     private static final String MOVIE_VIDEOS = "/videos";
     private static final String MOVIE_REVIEWS = "/reviews";
