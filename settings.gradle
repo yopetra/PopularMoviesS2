@@ -1,0 +1,2 @@
+rootProject.name='Popular Movies S1 v0.2'
+include ':app'

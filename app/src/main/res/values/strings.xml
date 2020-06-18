@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies S2 v0.2</string>
+    <string name="error_happens_try_again">error_happens_try_again</string>
+    <string name="favorite">Favorite</string>
+    <string name="watch_trailer">Watch trailer</string>
+    <string name="movieId">movieId</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="sorting_type">sortingType</string>
+</resources>
