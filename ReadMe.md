@@ -18,3 +18,5 @@ In this project I've learned:
 - working with database thru ORM
 - parse JSON to find trailers URLs and open trailes in browser
 - convert image of the movie to BASE.64 to dtore it in datbase    
+
+![alt text](https://github.com/yopetra/PopularMoviesS2/blob/master/popmovie-1.png)
