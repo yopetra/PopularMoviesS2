@@ -20,3 +20,5 @@ In this project I've learned:
 - convert image of the movie to BASE.64 to dtore it in datbase    
 
 ![alt text](https://github.com/yopetra/PopularMoviesS2/blob/master/popmovie-1.png)
+
+![alt text](https://github.com/yopetra/PopularMoviesS2/blob/master/popmovie-2.png)
